@@ -1,6 +1,6 @@
 # Breast Cancer Prediction
 
-This repository contains a data science project focused on predicting breast cancer diagnoses using machine learning algorithms. By leveraging various classification models, the project aims to analyze medical data and provide a reliable prediction system for distinguishing between malignant and benign diagnoses. This serves as a practical example of how data science can contribute to healthcare by improving diagnostic accuracy and assisting medical professionals.
+This repository contains a data science project focused on predicting breast cancer diagnoses using machine learning algorithms. By leveraging various classification models, the project aims to analyze medical data and provide a reliable prediction system for distinguishing between malignant and benign diagnoses. This is a practical example of how data science can contribute to healthcare by improving diagnostic accuracy and assisting medical professionals.
 
 ## Features
 
